@@ -1,0 +1,70 @@
+.bg-bg2 {
+    width: 175px; height: 310px;
+    background: url('css_sprites.png') -10px -228px;
+}
+
+x
+.bg-bg1 {
+    width: 174px; height: 310px;
+    background: url('css_sprites.png') -205px -228px;
+}
+
+x
+.bg-fg {
+    width: 205px; height: 68px;
+    background: url('css_sprites.png') -556px -10px;
+}
+
+x
+.bg-medals {
+    width: 92px; height: 94px;
+    background: url('css_sprites.png') -556px -98px;
+}
+
+x
+.bg-birds1 {
+    width: 160px; height: 21px;
+    background: url('css_sprites.png') -556px -480px;
+}
+
+x
+.bg-other {
+    width: 401px; height: 198px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-pipes {
+    width: 105px; height: 402px;
+    background: url('css_sprites.png') -431px -10px;
+}
+
+x
+.bg-Birds_Color {
+    width: 136px; height: 38px;
+    background: url('css_sprites.png') -611px -212px;
+}
+
+x
+.bg-background {
+    width: 151px; height: 39px;
+    background: url('css_sprites.png') -556px -421px;
+}
+
+x
+.bg-birds2 {
+    width: 35px; height: 189px;
+    background: url('css_sprites.png') -556px -212px;
+}
+
+x
+.bg-start {
+    width: 110px; height: 39px;
+    background: url('css_sprites.png') -611px -270px;
+}
+
+x
+.bg-menu {
+    width: 106px; height: 38px;
+    background: url('css_sprites.png') -611px -329px;
+}
